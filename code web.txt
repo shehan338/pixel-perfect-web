@@ -1,0 +1,58 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;Pixel Perfect Web | Professional Web Design&lt;/title&gt;
+&lt;script src=&quot;https://cdn.tailwindcss.com&quot;&gt;&lt;/script&gt;
+&lt;style&gt;
+.fire-gradient {
+background: linear-gradient(90deg, #ff4d00, #ff8c00);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body class=&quot;bg-gray-900 text-white font-sans&quot;&gt;
+&lt;nav class=&quot;p-6 flex justify-between items-center border-b border-gray-800&quot;&gt;
+&lt;h1 class=&quot;text-2xl font-bold fire-gradient&quot;&gt;Pixel Perfect Web&lt;/h1&gt;
+&lt;ul class=&quot;flex space-x-6 text-gray-400&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;hover:text-orange-500&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#services&quot; class=&quot;hover:text-orange-500&quot;&gt;Services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#contact&quot; class=&quot;hover:text-orange-500&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;header class=&quot;py-20 px-10 text-center&quot;&gt;
+&lt;h2 class=&quot;text-5xl md:text-7xl font-extrabold mb-4&quot;&gt;Elevate Your &lt;span class=&quot;fire-
+gradient&quot;&gt;Digital Presence&lt;/span&gt;&lt;/h2&gt;
+&lt;p class=&quot;text-gray-400 text-lg mb-8 max-w-2xl mx-auto&quot;&gt;අපි ඔබේ ව්‍යාපාරයට
+ගැලපෙන නවීන සහ ආකර්ෂණීය වෙබ් අඩවි නිර්මාණය කර දෙන්නෙමු.&lt;/p&gt;
+&lt;a href=&quot;https://m.me/YOUR_FB_PAGE_LINK&quot; class=&quot;bg-orange-600 hover:bg-
+orange-700 text-white px-8 py-3 rounded-full font-bold transition&quot;&gt;Get Started&lt;/a&gt;
+&lt;/header&gt;
+&lt;section id=&quot;services&quot; class=&quot;py-20 bg-gray-800 px-10&quot;&gt;
+&lt;h3 class=&quot;text-3xl font-bold text-center mb-12&quot;&gt;අපගේ සේවාවන්&lt;/h3&gt;
+&lt;div class=&quot;grid md:grid-cols-3 gap-8&quot;&gt;
+&lt;div class=&quot;p-6 bg-gray-900 rounded-lg border-t-4 border-orange-500&quot;&gt;
+&lt;h4 class=&quot;text-xl font-bold mb-2&quot;&gt;Web Design&lt;/h4&gt;
+&lt;p class=&quot;text-gray-400 text-sm&quot;&gt;නවීන පන්නයේ ආකර්ෂණීය වෙබ් අඩවි
+නිර්මාණය.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-6 bg-gray-900 rounded-lg border-t-4 border-orange-500&quot;&gt;
+&lt;h4 class=&quot;text-xl font-bold mb-2&quot;&gt;Responsive Layout&lt;/h4&gt;
+
+&lt;p class=&quot;text-gray-400 text-sm&quot;&gt;ඕනෑම Mobile හෝ Desktop එකකට
+ගැලපෙන නිමාව.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-6 bg-gray-900 rounded-lg border-t-4 border-orange-500&quot;&gt;
+&lt;h4 class=&quot;text-xl font-bold mb-2&quot;&gt;SEO Optimization&lt;/h4&gt;
+&lt;p class=&quot;text-gray-400 text-sm&quot;&gt;Google සෙවුම් යන්ත්‍රවල ඉදිරියෙන්ම සිටීමට
+උදව් කිරීම.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;footer id=&quot;contact&quot; class=&quot;py-10 text-center border-t border-gray-800&quot;&gt;
+&lt;p class=&quot;text-gray-500&quot;&gt;&amp;copy; 2026 Pixel Perfect Web. All Rights Reserved.&lt;/p&gt;
+&lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;
